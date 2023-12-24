@@ -39,3 +39,9 @@ s
 Capp/src/test/java/com/example/jetpackcomposetodo/ExampleUnitTest.kt,e\d\ed097bd5db9c0412cb21976737aba17949187784
 }
 Mapp/src/main/java/com/example/jetpackcomposetodo/ui/theme/WellnessTaskItem.kt,a\3\a3e98a2eb802b3688f2b272e8ae3c4b3d08c80da
+p
+@app/src/main/java/com/example/jetpackcomposetodo/Wellnesstask.kt,b\7\b72bf4e1c20ff9ff1ae222db196da850e6611dc3
+t
+Dapp/src/main/java/com/example/jetpackcomposetodo/WellnessTaskList.kt,5\0\5023b6f352e1577938dcd108ba44c0eb9155faf7
+p
+@app/src/main/java/com/example/jetpackcomposetodo/WellnessTask.kt,f\0\f09176cf4ca8e133a6d0a4bf6e8ac723cc9f6d66
