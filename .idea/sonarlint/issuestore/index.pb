@@ -37,3 +37,5 @@ Bapp/src/main/java/com/example/jetpackcomposetodo/ui/theme/Color.kt,9\1\91e38ce
 Rapp/src/androidTest/java/com/example/jetpackcomposetodo/ExampleInstrumentedTest.kt,5\3\53365bc04f863b7e0e61091be894ee1a7ada0913
 s
 Capp/src/test/java/com/example/jetpackcomposetodo/ExampleUnitTest.kt,e\d\ed097bd5db9c0412cb21976737aba17949187784
+}
+Mapp/src/main/java/com/example/jetpackcomposetodo/ui/theme/WellnessTaskItem.kt,a\3\a3e98a2eb802b3688f2b272e8ae3c4b3d08c80da
